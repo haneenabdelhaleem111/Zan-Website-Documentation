@@ -1,5 +1,5 @@
 # Overview
-The Pharmacy Website is a freelance WordPress-based project built for managing products, offers, and customer orders in an online pharmacy. It demonstrates WordPress site architecture, plugin integration, and basic e-commerce functionality using WooCommerce.
+Zan Website is a freelance WordPress-based project built for managing products, offers, and customer orders in an online store for the perfumes and the cosmetics. It demonstrates WordPress site architecture, plugin integration, and basic e-commerce functionality using WooCommerce.
 
 Live Demo: https://zan2026.com
 
