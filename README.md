@@ -1,4 +1,7 @@
+<img width="1920" height="1200" alt="Screenshot (1228)" src="https://github.com/user-attachments/assets/491c5f34-d8ca-4085-b7e3-faa78163009b" />
 # Overview
+
+
 Zan Website is a freelance WordPress-based project built for managing products, offers, and customer orders in an online store for the perfumes and the cosmetics. It demonstrates WordPress site architecture, plugin integration, and basic e-commerce functionality using WooCommerce.
 
 Live Demo: https://zan2026.com
